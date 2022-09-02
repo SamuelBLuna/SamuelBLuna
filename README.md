@@ -9,11 +9,12 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=SamuelBLuna&theme=gotham&hide_border=true&area=true)
 
-<!-- trofeis --> 
+<!-- trofeis
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SamuelBLuna&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> --> 
 
+<!-- Instagram -->
 <div align="center">  
 <a href="https://www.instagram.com/samuelluna0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
