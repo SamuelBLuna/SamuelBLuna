@@ -9,6 +9,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=SamuelBLuna&theme=gotham&hide_border=true&area=true)
 
+<!-- trofeis --> 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SamuelBLuna&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
